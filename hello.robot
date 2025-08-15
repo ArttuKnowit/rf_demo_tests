@@ -3,9 +3,6 @@ Hello
     Log    Hello world!
     Log To Console    Hello world!
 
-Failing Test Case
-    Fail    This test case fails
-
 Skipped Test Case
     Log To Console    This line is logged
     Skip
